@@ -12,7 +12,7 @@ public class problem1 {
 		System.out.println("hiii"):
 			
 	}
-	public static void name1(){
+	public static void name2(){
 		System.out.println("hiii"):
 			
 	}
