@@ -6,6 +6,11 @@ public class problem1 {
          
 		System.out.println("Hello");
 		System.out.println("Automation");
+		
+	}
+	public static void name(){
+		System.out.println("hiii"):
+			
 	}
 
 }
